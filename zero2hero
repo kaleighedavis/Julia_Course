@@ -1,0 +1,9 @@
+### THIS DOCUMENT IS FOR THE ZERO TO HERO JULIA WORKSHOP ####
+#here is the link with video and github info: https://discourse.julialang.org/t/intensive-julia-workshop-zero2hero/35461#
+
+#set working directory
+cd("/Users/kaleighdavis/Projects/Julia_Course")
+
+#create new project in this folder
+#execute this in REPL
+#] generate MyProject
